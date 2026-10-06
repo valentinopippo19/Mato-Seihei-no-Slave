@@ -1097,3 +1097,15 @@ https://github.com/user-attachments/assets/e9b10883-9079-4960-8333-1c3a3f659c13
 ## Diagrama UML de Mato Seihei no Slave
 
 <img width="1536" height="1024" alt="Diagrama UML de Mato Seihei no Slave" src="https://github.com/user-attachments/assets/1a872eb0-f976-4db0-9373-90dc21c5b28f" />
+
+## Portada de la serie
+
+<img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/b59b6814-7eef-4d50-8169-b3011baca695" />
+
+## Diagrama UML del Sistema de Waifus
+
+<img width="1536" height="1024" alt="Diagrama UML del Sistema de Waifus" src="https://github.com/user-attachments/assets/8b94214e-b012-43db-b861-ab72ad06376e" />
+
+## Diagrama de Secuencia de AnimeGame
+
+<img width="1536" height="1024" alt="Diagrama de Secuencia de AnimeGame" src="https://github.com/user-attachments/assets/8d22ae39-694c-4d2e-a58d-f4983fffa93b" />
