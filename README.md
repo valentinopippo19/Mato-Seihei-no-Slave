@@ -1071,3 +1071,25 @@ La versión actual del TP incorpora:
 ## Flujo de medios
 
 La versión web portable utiliza `Opening.mp4` y `Ending.mp4` incluidos en `portable/web`. El opening comienza al iniciar la partida y el ending se reproduce al finalizar el combate. La versión Java/Swing también intenta abrir automáticamente estos archivos mediante `MediaLauncher`.
+
+## Canciones del repositorio
+
+https://github.com/user-attachments/assets/b47c54b9-0d0c-40f8-ba1e-3ad9d2230871
+
+https://github.com/user-attachments/assets/5fd49a7c-d145-4160-ac51-564d57c480d8
+
+## Waifu del repositorio
+
+https://github.com/user-attachments/assets/ae4647d2-0c89-457e-a0a3-e74e6475d8ca
+
+## Enlace de manga
+
+https://mangavault.lat/manga/mato-seihei-no-slave-043d4a/1
+
+## Enlace del anime
+
+https://anime-dunya.com/es/play/50392/1
+
+## Las comandantes
+
+https://github.com/user-attachments/assets/e9b10883-9079-4960-8333-1c3a3f659c13
