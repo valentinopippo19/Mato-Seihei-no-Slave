@@ -1093,3 +1093,7 @@ https://anime-dunya.com/es/play/50392/1
 ## Las comandantes
 
 https://github.com/user-attachments/assets/e9b10883-9079-4960-8333-1c3a3f659c13
+
+## Diagrama UML de Mato Seihei no Slave
+
+<img width="1536" height="1024" alt="Diagrama UML de Mato Seihei no Slave" src="https://github.com/user-attachments/assets/1a872eb0-f976-4db0-9373-90dc21c5b28f" />
