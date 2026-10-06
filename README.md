@@ -1098,6 +1098,8 @@ https://github.com/user-attachments/assets/e9b10883-9079-4960-8333-1c3a3f659c13
 
 <img width="1536" height="1024" alt="Diagrama UML de Mato Seihei no Slave" src="https://github.com/user-attachments/assets/1a872eb0-f976-4db0-9373-90dc21c5b28f" />
 
+<img width="1536" height="1024" alt="Diagrama UML Final Extendido_ Mato Seihei no Slave" src="https://github.com/user-attachments/assets/e26048fc-1142-4d73-b786-ffcbad0b54e0" />
+
 ## Portada de la serie
 
 <img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/b59b6814-7eef-4d50-8169-b3011baca695" />
