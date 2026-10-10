@@ -1082,7 +1082,7 @@ https://github.com/user-attachments/assets/5fd49a7c-d145-4160-ac51-564d57c480d8
 
 https://github.com/user-attachments/assets/ae4647d2-0c89-457e-a0a3-e74e6475d8ca
 
-https://linksharing.samsungcloud.com/8XcfhsWqHj89
+https://github.com/user-attachments/assets/170c9b57-3cfe-426b-b199-b396404e857d
 
 ## Enlace de manga
 
