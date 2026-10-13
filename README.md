@@ -1084,6 +1084,8 @@ https://github.com/user-attachments/assets/ae4647d2-0c89-457e-a0a3-e74e6475d8ca
 
 https://github.com/user-attachments/assets/170c9b57-3cfe-426b-b199-b396404e857d
 
+https://github.com/user-attachments/assets/b619e108-0fcb-4cb1-8f82-b3aae11a6bb0
+
 ## Enlace de manga
 
 https://mangavault.lat/manga/mato-seihei-no-slave-043d4a/1
