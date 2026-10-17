@@ -1092,7 +1092,7 @@ https://mangavault.lat/manga/mato-seihei-no-slave-043d4a/1
 
 ## Enlace del anime
 
-https://anime-dunya.com/es/play/50392/1
+https://vww.animeflv.one/ver/mato-seihei-no-slave-1
 
 ## Las comandantes
 
